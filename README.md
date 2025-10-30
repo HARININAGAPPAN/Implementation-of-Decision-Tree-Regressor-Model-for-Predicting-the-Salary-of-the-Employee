@@ -52,8 +52,12 @@ dt.predict([[5,6]])
 
 ## Output:
 <img width="406" height="163" alt="image" src="https://github.com/user-attachments/assets/dfe1d02e-b084-409e-a5a1-cfb9edcd20d7" />
+
+
 <img width="380" height="179" alt="image" src="https://github.com/user-attachments/assets/ac47175c-3f8f-4fe5-9cc0-13b7a8bd97d5" />
+
 <img width="308" height="97" alt="image" src="https://github.com/user-attachments/assets/9749e376-c0ff-488e-aa27-db61fcf3d463" />
+
 <img width="281" height="24" alt="image" src="https://github.com/user-attachments/assets/a9773ee2-b0e4-45ec-b4c5-6dcadc617405" />
 
 <img width="182" height="25" alt="image" src="https://github.com/user-attachments/assets/3df50d52-9f22-4390-970c-577b5b2f84af" />
